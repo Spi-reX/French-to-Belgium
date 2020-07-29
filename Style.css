@@ -1,0 +1,167 @@
+body
+
+{
+	background-image: url(fond.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	margin: 0px;
+	padding: 0px;
+}
+
+.Belgi{
+    color: black;
+}
+
+.Nonante {
+   color: white;
+   font-size: 25px;
+}
+
+.Huite{
+    color: white;
+    font-size: 25px;
+}
+
+.Sept{
+    color: white;
+    font-size: 25px;
+}
+
+.Six{
+    color: white;
+    font-size: 25px;
+}
+
+.Cinque{
+    color: white;
+    font-size: 25px;
+}
+
+.Quatre{
+    color: white;
+    font-size: 25px;
+}
+
+.Trois{
+    color: white;
+    font-size: 25px;
+}
+
+.Deux{
+    color: white;
+    font-size: 25px;
+}
+
+.un{
+    color: white;
+    font-size: 25px;
+}
+
+.zero{
+    color: white;
+    font-size: 25px;
+}
+
+.Septante{
+    color: white;
+}
+
+.neuf{
+    color: white;
+    font-size: 25px;
+}
+
+.SeptHuit{
+    color: white;
+    font-size: 25px;
+}
+
+.SeptSept{
+    color: white;
+    font-size: 25px;
+}
+
+.SeptSix{
+    color: white;
+    font-size: 25px;
+}
+
+.SeptCinque{
+    color: white;
+    font-size: 25px;
+}
+
+.SeptQuatre{
+    color: white;
+    font-size: 25px;
+}
+
+.SeptTrois{
+    color: white;
+    font-size: 25px;
+}
+
+.SeptDeux{
+    color: white;
+    font-size: 25px;
+}
+
+.SeptUn{
+    color: white;
+    font-size: 25px;
+}
+
+.Septante{
+    color: white;
+    font-size: 25px;
+}
+
+
+nav ul{
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+	background-color: #333333;
+}
+
+nav.menu-navi ul li{
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	width: 100px;
+	height: 40px;
+	border-right: 1px solid #CCCCCC;
+	text-align: center;
+	line-height: 40px;
+}
+
+nav.menu-navi ul li a{
+	text-decoration: none;
+	color: #FFFFFF;
+    display: block;
+}
+
+nav.menu-navi li :hover{
+	background-color: #3388BB;
+}
+
+.exp{
+    color: white;
+}
+
+.Tentot{
+    color: white;
+    font-size: 25px;
+}
+
+.Tg{
+    color: white;
+    font-size: 25px;
+}
+
+.Gens{
+    color: white;
+    font-size: 25px;
+}
